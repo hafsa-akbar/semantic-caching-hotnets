@@ -62,7 +62,7 @@ Consider the following factors when evaluating their semantic replaceability:
 #########################################################################################
 
 cot = """
-Using chain of thought prompting, analyze these two images and rate their similarity. 
+Using chain of thought prompting, analyze these two images and rate their replaceability. 
 Break down your thought process step by step. 
 Write your answer in the following format:
 
