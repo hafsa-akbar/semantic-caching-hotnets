@@ -2,7 +2,7 @@
 This project explores the use of semantic caching to reduce data usage in web browsing by evaluating the replaceability potential of images in web articles.
 
 #### Dataset
-The `data/` folder contains the complete dataset of LLM-assigned similarity scores. Each category for each website is presented as a replaceability matrix, covering five randomly selected categories from the top 50 news and media websites (by Similarweb 2024 traffic share).
+The `data/` folder contains the complete dataset of LLM-assigned similarity scores. Each category for each website is presented as a replaceability matrix, covering five randomly selected categories from the top 50 news and media websites (by `Similarweb 2024` traffic share).
 
 #### Project Structure
 ```
